@@ -1,0 +1,15 @@
+@font-face {font-family: "iconfont";
+  src: url('https://at.alicdn.com/t/font_874315_3ug70lleyl9.ttf') format('truetype')/* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-down:before { content: "\e662"; }
+
+.icon-close:before { content: "\e62a"; }
